@@ -5,7 +5,7 @@ The recent removal of requirements from the historic Acid3 Tests has deemed thos
 
 ## Vox Populi Tests
 
-This test suite will serve as an open source collection tests by which all browsers will be judged.
+This test suite will serve as an open source collection of tests by which all browsers will be judged.
 
 
 ## The old days are over.
